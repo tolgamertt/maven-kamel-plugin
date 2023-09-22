@@ -1,0 +1,7 @@
+{
+  "excludedDependencies": [
+    "grandcentral-spec",
+    "grandcentral-kamelet-generic",
+    "mambu-connectors-generics"
+  ]
+}
